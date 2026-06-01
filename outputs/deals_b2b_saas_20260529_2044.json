@@ -1,0 +1,860 @@
+[
+  {
+    "id": "merlin-ai",
+    "name": "Merlin AI",
+    "source": "YC",
+    "batch": "Summer 2024",
+    "website": "https://www.merlinai.co",
+    "description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM\u2014traditionally scattered across multiple systems\u2014into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWhy Now?\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.\r\n\r\nTeam:\r\nKS, a BITS Pilani grad and successful startup co-founder, and Ayantika, an IIT alumni and tech expert, bring extensive coding and product development expertise together bringing about over a decade of technical expertise. Sneha ( that\u2019s me), with over a decade of experience in supply chain management and lean manufacturing within the construction industry, has lived the pain of using ERPs in this industry.",
+    "one_liner": "AI powered ERP for Construction",
+    "location": "Los Angeles, CA, USA",
+    "tags": [
+      "SaaS",
+      "Construction",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 28,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Do Small Banks Have an AI Advantage? Inbenta\u2019s Merlin Bise Makes the Case - Finovate",
+        "source": "Finovate",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUpzd2RkNUFOdXdPOFBOQm01THMtZ2dTRnhDQmhIazhQM1RRcjFaaG5PVjdUZ2Q0aDBqNWppdUVvc2l4aUpacHl4dUZCUHBUaVo4M3NNWjFXYUlsSEJXeC1xMFFMNmVvNzBMVnVZUTQ0ODdiVGlqN1B3QkJQS0N2WkhHaVRWODZlcWhlS2VOMFRZZGx2ZlVhNg?oc=5",
+        "published": "Thu, 28 May 2026 20:54:45 GMT"
+      },
+      {
+        "title": "AI is learning to fly airplanes \u2014 and aviation is starting to embrace it - CNN",
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QVzQ1dUJHVVhlaXdFZmNBdFFiUzFJRDd1TllQZ0RNMmg5aFVSTDFiY3U4ZDBRVFVrSGdpU2FzSm5wLXNuTGVXc2gxZnVGeDVOanBla1dWTzlQMVJSMDBvMFN4dw?oc=5",
+        "published": "Sun, 24 May 2026 18:10:47 GMT"
+      },
+      {
+        "title": "Now the independent sector is licensed with Udio following 'landmark' Merlin AI partnership - Music Week",
+        "source": "Music Week",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUd4QTZZUzNmdkdwM0dXbXJEWTRMZlV4VGJKYmVsMUZSaW5BaDNrNXZCZHJ6OUt1OWRNTWVvdUlqbmcycEJ2dV9zYndWTWFtbF9OSHM5LUpnT2hja0sxNnpOTVlFTDdXRFF5V1MxTFNCNmh0ZVotbjRnZXBiNnNaYmg1aENNR0VMYXF1RmVCTDFjTFRmVV8ya2JyMURJNUlXQTBTTXhoSzlfUTZ3NXhVd3pMX2FYMVlCc2pQb3J6N0dzTWxJLThsU3dtSWRnb28?oc=5",
+        "published": "Tue, 20 Jan 2026 08:00:00 GMT"
+      }
+    ],
+    "total_score": 86.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 10.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 8.0,
+      "network_proximity": 8.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "spott",
+    "name": "Spott",
+    "source": "YC",
+    "batch": "Winter 2025",
+    "website": "https://spott.io",
+    "description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
+    "one_liner": "AI-native ATS/CRM for recruiting firms",
+    "location": "",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Enterprise Software",
+      "AI"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 15,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Super highway park-and-ride plans called in over road safety fears - East Lothian Courier",
+        "source": "East Lothian Courier",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0EyNzdvRW1USUJDTE9HQ2ZpNkE1T19IaHZpbUlhZE41eFRra243S1lrYVhCcU5GX1hqdWpITEFyRDY3SHU4WGhYNEVxallLU0F6bnVmck5aSW5QcWVpLUhTZTlxdFZxZmdwUmJsSGs4dmMzTTVoaHoxSVNmdEhGNm16NGhta3Joam5GTUNmOERaLWdXUE5qNV9UV1VGeXowbW8w?oc=5",
+        "published": "Thu, 28 May 2026 11:04:07 GMT"
+      },
+      {
+        "title": "DJ Jose vs. G-Spott - Access (Heaven's Cry remix) - Dork | Down With Boring",
+        "source": "Dork | Down With Boring",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmpuZ3dCTDB4N2NmSDRfa2RaMUotTTQyQWYwMElIWkY2Z3lzcFg0T2h5djhaaXA2aEkyVGZBWThBdENlazlNRUlxazRDYkZEWHgyYWgxcjlBRmFXa3dIVzhQcXgwZWpYRWsxb1VTU1l3RDRuNW9nOTA4SWgwck96bEFhOFVHVWhzbEsyT0tUTURKOHBkeFNQRS01aFJhMkpaaks2ZU5TajJYQQ?oc=5",
+        "published": "Fri, 22 May 2026 03:15:45 GMT"
+      },
+      {
+        "title": "AI and the Next Generation of ATS/CRM for Recruiting Firms - The Global Recruiter",
+        "source": "The Global Recruiter",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWs4Ri1CV1kwajQ5YVIxaGs3aVlaOG1lSnJycmJ3RlJUSHpiYl9HcFhCSEo5YUVzRGo0aUQtSnRFaXlvUHllczdjM1pfMHdTNWY4UzQzZFVMTGQ0SjNheG40M1B1VEh3OEhRUk9JaDBlTWVCVUNqYTJqZ0R1S0thY25teU1LZDJFR21sNEtIbV92MUViUHJNbmZB?oc=5",
+        "published": "Wed, 14 Jan 2026 08:00:00 GMT"
+      }
+    ],
+    "total_score": 83.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "uplane",
+    "name": "Uplane",
+    "source": "YC",
+    "batch": "Fall 2025",
+    "website": "https://uplane.com",
+    "description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
+    "one_liner": "Replace marketing agencies with AI",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Advertising",
+      "AI"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 19,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Uplane Raises $4.5M in Seed Round - The SaaS News",
+        "source": "The SaaS News",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85MFQ3eEoxUWRwR0hJc0g3OTdXTFJjVzhfTlVPRGFycUFsSC1yMjJIMEVEUVBPdWNuc3hUeVRnZWtCcG56X2VqVGdXZ1lJemEtbWlLaGMyODRKVlJ2Zk1jQ2RlRnhibDV6d1V5YW8ydWs0RWs?oc=5",
+        "published": "Thu, 16 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "This startup wants to replace marketing agencies with AI. Read the pitch deck it used to raise $4.5 million. - Business Insider",
+        "source": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk8yTC1fSFViSGh1QUpxc1NQQjd5VWpkQWNEVU9ULXZ1WVpBYjdVdkV0eVJ6U1F1WjZhUGtHN1oxcmpIRzhiYk15V3NHVmtlSE9DVTZYTXU2b1I4MlBhS1BwVVZILXZPMFBUYlhmdWg5bHZJcVFSdnN2Wno3Ml9XaExfNlhEUGlQOC1NWnl6SjRQUmJpelZVdF9IMmtxNXpvMHVQbXdOOA?oc=5",
+        "published": "Wed, 15 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "How Uplane Raised $4.5M to Build a Smart Platform That Competes with Traditional Marketing Agencies | Jawlah - Jawlah",
+        "source": "Jawlah",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5hYVc3QlI3SGFIb1lqdlg5ZkhnSll5cW5mdjBiZElFcGlXTkRpWEJLb1NLYjlQTzEyZThHaXJGQQ?oc=5",
+        "published": "Sun, 19 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 83.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "trace-so",
+    "name": "Trace",
+    "source": "YC",
+    "batch": "Summer 2025",
+    "website": "https://www.trace.so/",
+    "description": "Trace is a workflow orchestration platform that gives agents shared context across systems and lets teams build visual processes combining AI and humans. It automatically identifies which tasks can be AI-automated and which need human input, so non-technical teams build and run workflows without engineering involvement.",
+    "one_liner": "Context-aware orchestration between humans and AI.",
+    "location": "London, United Kingdom",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Enterprise Software",
+      "AI"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 3,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [
+      "KALLOW, Linda",
+      "KALLOW, Michael Francis",
+      "KALLOW, Reshurander",
+      "THOMPSON, Kimberley Jane"
+    ],
+    "ch_incorporated": "2000-10-13",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Experts trace how the world shaped samurai into a global icon - Japan Today",
+        "source": "Japan Today",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDZFd29OX2k2MFlkdEhoT3BYS3lhaklzc241R3YzNkNOS3hUMXVWZkFCMlFHRFpoTzB0c1EzTFVabVdRemhsQ0MyT1hrSGpYODlZbkl6enktZEVfaXJWODR6OWc5cU1rRWRyWWhsYVlfNEotc1NPRDhPYk1ad2h4T3lnT2hLZWd6VW0zUV80WS0xMjBDSVBsVEhBbHpqdUJZNzhDdFltT0IzbVhUTXJILVFYOVJFSXBXa0NVdGpkSklMdw?oc=5",
+        "published": "Wed, 27 May 2026 21:30:00 GMT"
+      },
+      {
+        "title": "Bid to trace man who went to toilet in public place in Redditch - redditchadvertiser.co.uk",
+        "source": "redditchadvertiser.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnA5SzZCYXRmV0dqMlZEakttc0RqanJCY1ZDSnpFVERETzBieXBCdXN2T0d3ejRUaXhZOW52Y3FZVWNaWDhmNzQ2ellBZnRFdnhlX0ZhTDhURzJzcEpCLXNkVnUtclBnMkRBU24tS0FaRFYtYmhWbEpPUElNRmc5REt0YzMtLTYwN0M3WGlNVm9kSXY4WjJ3?oc=5",
+        "published": "Wed, 27 May 2026 14:34:23 GMT"
+      },
+      {
+        "title": "The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal - ScienceAlert",
+        "source": "ScienceAlert",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5",
+        "published": "Sun, 03 May 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 79.4,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 8.7,
+      "product_traction": 3.5,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 8.8
+    }
+  },
+  {
+    "id": "humand",
+    "name": "Humand",
+    "source": "YC",
+    "batch": "Winter 2022",
+    "website": "https://humand.co",
+    "description": "Humand transforms how companies digitize their internal communication, culture, and HR processes within one user-friendly app. As a result, Humand provides every company with a digital Community to centralize every company-employee interaction.\r\n\r\nHumand's digital Communities are powerful, customizable and easily adapt to the needs of every company, no matter the industry, size or region. Companies that implement Humand benefit from the following suite of Mini Apps, which are getting smarter thanks to the power of AI:\r\n\r\n+ Forms & Smart Workflows \ud83d\udccb\r\n+ Internal Social Network \u2764\ufe0f\r\n+ Chat \ud83d\udcac\r\n+ Time Off \ud83c\udfdd\r\n+ Magazine \ud83d\udcf0\r\n+ Surveys \ud83d\udcca\r\n+ Smart Intranet \ud83d\udcf2\r\n+ Kudos \ud83d\udc4f\ud83c\udffb\r\n+ Learning \ud83d\udcda\r\n+ Onboarding \ud83c\udf89\r\n+ Org chart \ud83d\udc65\r\n+ Company Files and Employee Documents \ud83d\udcc2\r\n+ Perks & Benefits \ud83e\udd42\r\n+ Birthdays & Work Anniversaries \ud83e\udd73\r\n+ Employee Development \ud83e\udd47\r\n+ Electronic Signature \u270d\ud83c\udffb\r\n+ Smart Tickets \ud83d\udce7\r\n+ Marketplace \ud83d\udecd\r\n+ Calendar & Events \ud83d\udcc6\r\n+ Agenda \ud83d\udd0e\r\n+ Integrations \ud83d\udd17\r\n\r\nMore than 1,000 companies use Humand. Implemented by ArcelorMittal (biggest steel producer in the world), Tenaris (global leader in steel pipes production), NSG group (among the biggest glass producers in the world), and many other organizations across different countries.\r\n\r\nHumand enables all workers, particularly those without direct access to a computer at their desks, to stay connected with their company anywhere, anytime. Humand enhances internal communication speed, streamline information flow between collaborators, and enable instant, targeted reach to all employees with push notifications tailored to their needs.\r\n\r\nCompanies that adopt a digital Community powered by Humand experience an enriched work environment, heightened employee camaraderie, and a surge in productivity, all contributing to a thriving and connected workforce.\r\n",
+    "one_liner": "All-in-one app for internal communication and HR",
+    "location": "San Francisco, CA, USA; Remote",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 270,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Humand Raises $66 Million in Series A - The SaaS News",
+        "source": "The SaaS News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxQjdibFZUbjFtQk9WWW5STXhsMFpkSU41MHBuX1UzXzNnV2JnbFd5M043c3d3dUdJM2xrR0toMXQ0T0xtUkEteFltOTktTVNRbWZSTVVaQTZCbTlDb3BQdDVQbGd5Zzh0SnJGYnhIOW5vX0lQak5jaA?oc=5",
+        "published": "Tue, 03 Mar 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Humand raises US$66 million to lead the digital transformation of frontline workers and position Spain as a European hub - capital-riesgo.es",
+        "source": "capital-riesgo.es",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeEhYcVBlN21ycUJidlRycEZNS0c2YkxyN0ZSdDA4ZXl4OHAxM2NQdVdQNTJqNzlfT3pxaXZFcmNtN3pHRVFrcEZmTnF6S0xaajlacy1lTnM0cG1PV2VCNzBBQ2FUSTV3bURUdUJnTmdqemVtY0Nic3p0R0FLWkIzZ0twcHFzZVVGbTNTc3A2ajcxSnlCb0NLZXZSYWVCSXJPckE4NHM5VkpCRk8zR1VtWGN2Uk53M3VvUGZLQVgzZFY3UnZpb0hUTWtvTC1lRXN4emJOQ1NTeDRoRU1WODF1c1RlMUVfVnRZSXkwQXJ0RU8?oc=5",
+        "published": "Mon, 23 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Humand secures $66M to scale AI-powered operating system for frontline workers - SiliconANGLE",
+        "source": "SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVl2OUR0OHlqcTZFSUNDMUk5NmUxUmdwcXdWVmdxbVoyUnhLbUdXZFFkaWdWd05nSmN6NTdiMEFJUVVmSG1XdDM4N182aEp0TGpwa3ZFWTNuRk9GVDB3ay1vYjhlZkotbkhhR2ZBNE5HSUZBeUo1MWVpTnpscTBzdjFycldVTkl6YTVTNS1qeGJabno3d2ZTZ1U0Vk9CRFRKVU53VnZNR0pWV2M?oc=5",
+        "published": "Mon, 23 Feb 2026 08:00:00 GMT"
+      }
+    ],
+    "total_score": 76.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 5.3,
+      "product_traction": 10.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 4.0,
+      "network_proximity": 8.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "epsilon3-inc",
+    "name": "Epsilon3",
+    "source": "YC",
+    "batch": "Summer 2021",
+    "website": "https://www.epsilon3.io/",
+    "description": "Epsilon3 is the AI-Powered ERP, MES, and Test Management Software for Complex Engineering, Manufacturing, & Operations. We are a growing team of engineers from SpaceX, NASA, Google, and Stanford with unique experience planning and executing over 100 space missions. We are applying what we learned to develop web-based solutions that make building and operating advanced systems as efficient, error-free, and enjoyable as possible. Want to join a fully remote, US-based SaaS startup on a mission to solve complex problems in aerospace, energy, defense, maritime, and biotech? Apply today!",
+    "one_liner": "AI-Powered ERP, MES, and Test Software for Complex Operations",
+    "location": "Los Angeles, CA, USA; Remote",
+    "tags": [
+      "Commercial Space Launch",
+      "SaaS",
+      "Space Exploration",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 12,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Inc. Names Laura Crabtree, Epsilon3 Co-Founder and CEO, to Its 2026 Female Founders 500 List - PR Newswire",
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3FiLVZ6ZDIySGY5QVU3Y29CcnFtbGJSS2pYaWxPMmV5Mmx2MFIzcTd2c2lteUh4bGxSYVhxbmViNHd3Sm9ILV9nLVR5aTltTF9pakU5WUNYNUJiYk1IYkRldlZhWlZINXlqcUw1dGpRUTdzelQxdldadlF5U01jZmlFUmtsNGFlRnlXMzU5Rld6ZDEycndoeVpQWXJJNnc5a0hWdm0xMmc2ek54aWVIc3lRNXJSUW85b0hzWjdBMy1EM2lKSFRVdlE0N2w3YjVHZndsMlNScmE2TFgzR0E?oc=5",
+        "published": "Tue, 10 Mar 2026 07:00:00 GMT"
+      },
+      {
+        "title": "What comes next after SpaceX halts Starship launch - MSN",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUExBMWhYek01ajN4dkxmanBPak0wdGNIQlpfWHowckdtZUh6NFZ1R1JsTU54TzllSzNlYloydl9IWHB0OTRqMFlVMGlCZUMwZHgybmcyaXpPMmlTZ2s1bk5WQ2VaVG83SmFiVGpPQjhHNnowOFEtWWtlRTBFN0xZX0FvcTZFcm5vb2dLNnZwU2pmNlBFcWMzM0RTV2tKMDVra3BvWWVleU5FMXJja25CMmRR?oc=5",
+        "published": "Sat, 23 May 2026 00:17:30 GMT"
+      },
+      {
+        "title": "Musk's new identity: The \"Godfather of Entrepreneurship\" beyond the trillion-dollar space empire - eu.36kr.com",
+        "source": "eu.36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLNEtvZ3FsR1k0UmoyZlNoRk1qQ21DT29PVzhVSW1XcXNpUENlSkNMdFk0MnBFX1VFaS1GSVVZRlVjWHdQeHdWLVBMQUs0c1Z3NWNF?oc=5",
+        "published": "Wed, 31 Dec 2025 08:00:00 GMT"
+      }
+    ],
+    "total_score": 75.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 2.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "lab0",
+    "name": "Lab0",
+    "source": "YC",
+    "batch": "Spring 2026",
+    "website": "https://lab0.ai",
+    "description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
+    "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 3,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Angelini Technologies targets truck unloading with LAB0 robotics - Modern Materials Handling",
+        "source": "Modern Materials Handling",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjZBYnJRT2N1c3d0WGdPbkNwOFlfUC1rMWl4eUR0dEtxeHp2MlVVQnU1b1NmWlV0ZUpSdHJ1SzNlandIVjNaMi1wbHZieDBwclVsZXNJTm1kZGtvNUk0T05ldXFvM19pSFQzT19LTWFZWXFoaWVZcDFzc3Nnd3g5X1dLSzJtek5Zbnp2ZmhUbDdrcGJNRG00?oc=5",
+        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Angelini Technologies advances next-generation logistics robotics solutions - American Journal of Transportation",
+        "source": "American Journal of Transportation",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWZTYTRoUjRfQ3poNDhnY2F3VW12UHpwMk9zYlBzaWFyaHNHbHBTQm5FcGV6UTB0QnJXcndiTm9QNE1PaVNvYWhhRDhGMGczQmtVX1AzNzJFWmdxTWhSdTNaSENCYWVWam5XNVRlWDM4VDBVbTdRRm41ck9wd28yVHdJSEJzRG9TbGRaTG9kVkNOeDBKUnJmZV9jX3ZsNXhLUWFj?oc=5",
+        "published": "Mon, 13 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Angelini technologies joins LAB0 and aims to robotise parcel loading and unloading logistics - Il Sole 24 ORE",
+        "source": "Il Sole 24 ORE",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkwyZWxLLU9SZmNlYXpEX3lLNGNqV0haWWlpVXNlOVpkLWoxYlFrZUgxbE5Pdmo0MnBDTnZZdkpFbzhyX24yQ2gyUWxfNXZkdnJzQ0g1M1hQR3NyZFRlc2pDY2hWRmgtemZOdXRaUl9pY2NlUWFHTlFCb0VjNlVGakYtcXhwOWFxUk5tN2gzUmF1UkZFb1ZqT1FzN0ZsVi1UclE4VnJvMGdLLWx5aEVpdWpYWVh2Y0V0VEl0eFVhMkxfMWEweFFEUkxHb1kxZjM1aEhJ?oc=5",
+        "published": "Mon, 13 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 73.0,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "tiny",
+    "name": "Tiny",
+    "source": "YC",
+    "batch": "Fall 2024",
+    "website": "https://andtiny.com",
+    "description": "At Tiny, we\u2019re building a new kind of ERP system for factories where AI agents automate repetitive workflows. Made for the four million factories still primarily relying on Excel. LLMs now unlock their troves of siloed unstructured data. We see a massive opportunity to build a compound startup and, beyond that, tap into network effects to unlock just-in-time manufacturing across entire supply chains.",
+    "one_liner": "A new kind of ERP system for factories",
+    "location": "Singapore, Singapore; Remote",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 3,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "A newly identified species of octopus looks like a plush toy - CNN",
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ybll5OF9mT0VCTkMzcm9Mdl9IY2pfVUdXc1hLc1JrdGdtSjRzRmE5MVk1Sk1hNDA4WkxyNDdyXzNwXzdjeFM4WTJIMkJ6WmZJdHg0NjZmUFItYUNuSWZrb0pod2JDRjBQOHpiNGZNb2xCbmRNbEJV?oc=5",
+        "published": "Wed, 27 May 2026 21:51:50 GMT"
+      },
+      {
+        "title": "\u2018Our unity defined our team\u2019: how tiny Torreense made the Women\u2019s Champions League - The Guardian",
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkZXZjZUb0lUVjNscVVBbXV0a05nVF9RaEh4TnYyczgwV2k2QXJQLWxqQlRCdjhVVEJJRUw4NTMyeU9KTmxJMjFmQUVGc2tkWEJUZ3p5ZW9ubE91R1pyWkh1UlhfSTFjLUZSYy1wWDZheGI5MFlZMWplcVNMZHJMckt4aThRYURDbkx0akRCSXNYSEdwS0IzR2tYRGV6aGhuZnY1aDBZaU9neGs?oc=5",
+        "published": "Thu, 28 May 2026 11:33:00 GMT"
+      },
+      {
+        "title": "Battersea Park Children's Zoo: Tiny venue champions rare breeds - BBC",
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3QkxldFVwYU55Y1VOek1EdXg4bU9XUENTSHA1LWhwYWMtenZHZTRRUVk0VFJfNGJvNjBSWWN5MXpzeDQxZDBXZkdrNDlhb2g4MTE5TmhseEFTUQ?oc=5",
+        "published": "Fri, 29 May 2026 07:08:07 GMT"
+      }
+    ],
+    "total_score": 72.4,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 8.0,
+      "network_proximity": 7.0,
+      "press_traction": 8.8
+    }
+  },
+  {
+    "id": "vizzly",
+    "name": "Vizzly",
+    "source": "YC",
+    "batch": "Summer 2022",
+    "website": "https://vizzly.co/",
+    "description": "Vizzly provides customer-facing analytics for modern SaaS.\r\n\r\nThe platform offers the same level of flexibility as an in-house development process with minimal technical overhead required. ",
+    "one_liner": "Customer-Facing Analytics for Modern SaaS.",
+    "location": "London, England, United Kingdom; Remote",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "API"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 4,
+    "status": "Acquired",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [
+      "WPP GROUP (NOMINEES) LIMITED",
+      "SCHWARTZ, Monica",
+      "TAMHANE, Manjiry"
+    ],
+    "ch_incorporated": "2021-12-13",
+    "press_mentions": 0,
+    "top_articles": [],
+    "total_score": 70.5,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 10.0,
+      "product_traction": 6.5,
+      "market_timing": 10.0,
+      "hiring_momentum": 1.5,
+      "funding_velocity": 4.0,
+      "network_proximity": 7.0,
+      "press_traction": 0.0
+    }
+  },
+  {
+    "id": "cardinal",
+    "name": "Cardinal",
+    "source": "YC",
+    "batch": "Winter 2023",
+    "website": "http://cardinalapp.io",
+    "description": "Cardinal is an opinionated feature backlog. It pulls in your customer feedback, CRM data, and task management issues and uses AI to assess which customers want which features, how important is it for them, and how much are they worth",
+    "one_liner": "Your AI product backlog",
+    "location": "Austin, TX, USA; San Francisco, CA, USA; Remote",
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 3,
+    "status": "Acquired",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "The Church and the SSPX: Cardinal M\u00fcller on a tragic conflict - The Catholic Herald",
+        "source": "The Catholic Herald",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeDNvdjE0dEdidUtnMXRVck4tbFlpRE9wTHNEWEVUWFhvUjRXTThzclhLQkVsMDVyeHphZFNpel9LZEp4X1BQYnViV0VOYllDcV9UbUc2OUF0dWZYYkpQX19NNWRrdzYwSlZvc3o4RjJuWG9WZk8yQlJSWU4yWW0welRoVTVPRkRFcDJNaTRYVTdlbzJsd21WTlNJMWVIU0k?oc=5",
+        "published": "Thu, 28 May 2026 13:28:56 GMT"
+      },
+      {
+        "title": "Cardinal Cupich: Pope's encyclical 'a new lens' for Church's Social Doctrine - Vatican News",
+        "source": "Vatican News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM0lyS25vaFNPbEdOaE1IczBjcU8wS1hsTGhYVG9GcjhGby1mWW5WeWZXenpPbEdmN3JSaVpFNFVhSEJOd0lpV19XeTZpODdtaF9VOVNxQTZLVmE2d1o4Nlh4VE9IeHJQQVBUR0Q1cjRfa0pqX2FVamgyaTg1OWkzcENOOWhaNThLdWZZTklsaVN3aTVOMzBWNE1mTUgtR2YxV1UyWkh5OUt0ZUFJSXRoaVppRjd3QQ?oc=5",
+        "published": "Thu, 28 May 2026 10:31:08 GMT"
+      },
+      {
+        "title": "Toronto Catholics urge cardinal to intervene over SSPX consecrations - The Catholic Herald",
+        "source": "The Catholic Herald",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjQ5Y0hSMFNWaDRqZlRha1ktMnJoWjktaTdnM01tUmdsa3Y1WHE2OU9RWWtydXk5TmFXMEdFcXhmemU5MXRYTHJzZUc2ZmNOc2lUVVhtS3ZJOGtNc2VfY1BqV0xBYXJmTzhzS0gtS3plTUxid2JzVktoME1GSDlmbU11NVNIbGFCM3ZMbUtYMVA5cS03ZFVId1o3My1zekViQXpqZGpzNy1vUQ?oc=5",
+        "published": "Thu, 28 May 2026 13:18:56 GMT"
+      }
+    ],
+    "total_score": 69.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 6.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "relate",
+    "name": "Relate",
+    "source": "YC",
+    "batch": "Summer 2022",
+    "website": "https://www.relate.so/",
+    "description": "Relate is a modern Sales and Marketing CRM platform for B2B companies.",
+    "one_liner": "All-in-One Sales and Marketing CRM for B2B teams",
+    "location": "San Francisco, CA, USA; Remote",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "CRM"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 7,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Greek national charged with assisting foreign intelligence service - The Independent",
+        "source": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2dmU0U2dVJ5NmNnOHhMSkEwTzg2ZW5KeGljM1VVR25yQVg0cERaUlVpd0kzTTkyY09TQlVmb0Z6Z1Vmb0VTSjlSS3NBeTNyQUdMSjNvM1g2NkZvRENWQWRWUmpaakRjbmpPQzRIM19IOW1LeHlzX0d3Q0FZaGI0SnFUMlY5aFNfTTJ2ekhoQTh4Q2IyM0thMQ?oc=5",
+        "published": "Fri, 29 May 2026 12:35:00 GMT"
+      },
+      {
+        "title": "Zendesk Relate 2026 Showed Why Agentic Customer Service Starts With Knowledge - Forrester",
+        "source": "Forrester",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEtPR2NqSWpTYnI2TGFkRFUwc2FYSEhYZ3NSR0VYUHFmQWtLdTZoQ1lZcEpzaGttSVFsSkw5UU9ZaExnRl9USXVaTm1Gb1FfQVJJMGJMcDh3ZWZQR1BxSmVCcExSYXR6S1NBNlhyYngtWVVGZTRMNEI5WWRFeHNRRWVZWm5WRkVwdjBlMDRNUThRR0RnVTZnRjE5YVR3dkVFdDI0dm93MWlGWnZZVjBR?oc=5",
+        "published": "Tue, 26 May 2026 22:15:26 GMT"
+      },
+      {
+        "title": "Yiren Digital Ltd Matters Referenced In Media Reports Relate To Affiliates Of Controlling Shareholder Are Not Connected To Co - TradingView",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWmY5TmcwRWZ0X3hjLW1HSGtiWGVRbWNCNTF1czdLZDhabkpQZkJrZVNHdmdWMlZ5N3Z3VVRZb0ROTHBDVnA1OWFJakZGaVZEVTJQZXZvdzlLS2h5ckJTdHZBcEljZm9pMFEtWmJrXzB5SmZUWVJrVXNjSlRtQ01wQmV6M2RrdmpIemdJOHlQVmo4emtIM2ZvWmVhdzYyd2c1TnY5a3NHZEF2WkF6WVRBY2thUFJqazhwQVowWWY1eHNEVjVYNml3SmY5OHh4dF92Q0ZqbWVCQUhORkxjdnVocUdoMDAxRlg0R2w0R1dRQi1mdEFwTzRTeU1tTEladFRZS1pLclh0c3JON3p3UUlaSFRaOUFRcVFLVzBDb05CTnY?oc=5",
+        "published": "Tue, 26 May 2026 11:39:30 GMT"
+      }
+    ],
+    "total_score": 68.4,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 4.0,
+      "network_proximity": 7.0,
+      "press_traction": 8.8
+    }
+  },
+  {
+    "id": "pivot",
+    "name": "Pivot",
+    "source": "YC",
+    "batch": "Summer 2022",
+    "website": "https://www.trypivot.xyz/",
+    "description": "Pivot helps you visualise, analyse and model your company's financial data way faster than Excel.",
+    "one_liner": "Your AI FP&A Analyst",
+    "location": "San Francisco, CA, USA; Singapore, Singapore",
+    "tags": [
+      "SaaS",
+      "Finance",
+      "B2B",
+      "Productivity",
+      "Enterprise Software"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 2,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Exclusive: Imported voters, fake websites: Russia's covert efforts to stop Armenia's pivot West - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWtocUNFR1R2bWM4WnhldC1jcURaME1jSkJnd0lUSW5fWnVtejhKX2h1azhBU1dYejZCclFYcVJDYW5iUW5IanpNX1FIMkk4Nk5rX2ktS1FibzZYS2RKeE9TbHlUV3JtOWNOYkE0bVo5cm9mQUxqbHB6SW9KX2Q3ZFJpTnpuQy13MGJZLVZXdFFnMFc4Z1I5NXVPZmM4Vldnc2dZazg4eG85c2hkWXFTcWlDODJSaWZUcHJn?oc=5",
+        "published": "Fri, 29 May 2026 11:54:59 GMT"
+      },
+      {
+        "title": "Hoth Therapeutics\u2019 pivot to AI in space sees stock price rocket - Fierce Biotech",
+        "source": "Fierce Biotech",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXhpX0toYUtISXc4ZEx0eEk0Uzc1X1JlNllBMEpMOEZfMnFSbF9JYm5OTUdIclZ6cHM0WnViOG5OUVU0OElIbEdEeHRmTWhrSWFYSC1OcU9fTi1fM3l6d3FUZ184T1h5MmZuZ1RkYzU5STZvQUJDeG5RU3ZDOUV4QU80QmZfN0JqbmpJZHduRUdWaTl5bXVMRTNWTGhIUS04SEhSSlo4TkpBR3Nz?oc=5",
+        "published": "Thu, 28 May 2026 14:01:09 GMT"
+      },
+      {
+        "title": "Review: One Year With the High-Pivot Canyon Sender CFR - Pinkbike",
+        "source": "Pinkbike",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQml1ampQQUZMODN5ZklNWHhPZHBmTmVGdG1WQTZvUlZQTlVBYW1Zc1FVOWd1enRvWDFBLXVrNkZwYTZFak1KV1BndFdScC1LYTNJNmZsRVlvVGw3Ymhsc3l4clFtbFc5am56aFBuZzA4aU1HMEd0aWE1WGRUbGpab0NWZ01UWnNUdEQxTFhxa29ITU1QTjNZ?oc=5",
+        "published": "Fri, 29 May 2026 15:00:00 GMT"
+      }
+    ],
+    "total_score": 65.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 4.7,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 4.0,
+      "network_proximity": 7.0,
+      "press_traction": 10.0
+    }
+  },
+  {
+    "id": "openroll",
+    "name": "Openroll",
+    "source": "YC",
+    "batch": "Fall 2025",
+    "website": "https://www.openroll.com",
+    "description": "Openroll is an AI-powered workspace for people and finance teams.\r\n\r\nOpenroll lets teams automate recurring work and run fully auditable workflows across their systems.\r\n\r\nCompensation, headcount, and budgeting in one platform.\r\n\r\nLearn more at https://www.openroll.com",
+    "one_liner": "The AI workforce for People and Finance teams",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Productivity",
+      "HR Tech",
+      "Enterprise Software"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 4,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Lexus Nottingham Open roll of honour - LTA",
+        "source": "LTA",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUc3WHc0SVVjOEEyZDNMZE1WcGpSemtjdEw2cm53ajhINGxfOGhuZGNZSXVXclE5bWJmdTEtQ3hFTXBPMENxRXlnWWNYcUhiYTlJSW1BTDBoMDQ3UzVQc1dUYjUycmhtcEJfbnRqckFXMFFpZDRweVV4WmVhR3J5djFn?oc=5",
+        "published": "Sat, 31 Jan 2026 00:48:58 GMT"
+      },
+      {
+        "title": "Lexus Eastbourne Open roll of honour - LTA",
+        "source": "LTA",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXJjSU92RWFVVzlyU1ViNmRNQjNWbi1zMU1yT200a2hmWnZ4N0RiaDYzMnlsTEhSR3JmNVpXQWhOQmpTQkttTXp4SlU3MkdsUzJjNGpjVlJfU1lrS0ZiRnNEUngxaU9hMHBOd0ZmdGY1VjctZjhucFpCZjBjcGR3bDNR?oc=5",
+        "published": "Sat, 31 Jan 2026 00:48:57 GMT"
+      },
+      {
+        "title": "Lexus Birmingham Open roll of honour - LTA",
+        "source": "LTA",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHBnRTBpVGtSdGVkZVh4dzhvOS1jUDYtYnRZTXZ2SHRDdGltandXQWdVa2JEdlFSc29NWHdaeEZJWTN0ODNQLWVyQ3hIaEFHaUFrWnVNWTJhcVdqZFQ2ejhVajJaQW9lRG1kTHI2T3RuaVBxOURXVTFmYU5HM2lhSEJ3?oc=5",
+        "published": "Sat, 31 Jan 2026 00:48:54 GMT"
+      }
+    ],
+    "total_score": 64.5,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 1.5,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "superunit",
+    "name": "Superunit",
+    "source": "YC",
+    "batch": "Summer 2024",
+    "website": "http://superunit.com",
+    "description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies\u2014faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
+    "one_liner": "Faster, more profitable background checks with AI",
+    "location": "Los Angeles, CA, USA",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Enterprise Software"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 2,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Albums Of The Week: Zeni Geva & Steve Albini | Superunit: Maximum Implosion - Tinnitist",
+        "source": "Tinnitist",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmVoZmhNNC1LUVhqeXZtNnZkY1R3bFdCbDgxd3VwS0ZBUDNZdGRKOWhJVkVqOERWSXhPX2RoVWZhSUN0TVoySWJoa0ZIUFRqMHJtLVJLX3c2aUc4YWVfVmI0OW1qeEhobklMY1E0cHVtSl93WG9mT0NOX0tBRGk1VGc1Y3pvVXVmT2dBaktvVzJWdFBWZDUyaDdGYXhGejFabW00TFRB?oc=5",
+        "published": "Sat, 18 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Album Premiere and Interview: Zeni Geva & Steve Albini \u2013 SUPERUNIT - newnoisemagazine.com",
+        "source": "newnoisemagazine.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVpaS2Frc1VRT196OE5nTXFsbW5PMW50T0lnUzFxYkkzZlFPSjdoRUp4X2plM0Z0Umk2TEFSYzRqcVJyUHJ4bEIzSTltNWF2a2FvZzJJYmkxUU0zeUQ1RHZLZEVEVS1xZlJJLXg3MDdMWFVQQU9rcmoxRlY3QTBTbzBQQXU4S2xkMWUyM1lkMkRLMS1JZGFoOWdDNXN3dHhudk1j?oc=5",
+        "published": "Fri, 17 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "From Tokyo flyers to analog tape fights: inside Zeni Geva and Steve Albini\u2019s Superunit years - IDIOTEQ.com",
+        "source": "IDIOTEQ.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkFPVE5BbzVmNGpIeUl1eFNYczNyYkhXYW5BMFd4aUxHVnBHR0VsU2I4VHNIa0FJMUJnSFFVVHJiOWg5Q3hRcGJYOGNKeW9oTnIwOHlVV3lyV3d4MmYxbUJiMFZYcW5FYldBZ2lvZ3U5UTVzTnBGRkVxTm5Od2xaX1lsSjJrUU9Nc0c2TmxYWE5uU3BadFcwZUFTb3hCNzBvSVlTaUNUdkxjaVlTUE43UQ?oc=5",
+        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 61.5,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 4.7,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 4.5,
+      "funding_velocity": 8.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "birdie",
+    "name": "Birdie",
+    "source": "YC",
+    "batch": "Summer 2021",
+    "website": "https://www.getbirdie.io",
+    "description": "Birdie supercharges your sales team\u2019s outreach productivity on LinkedIn. We do this by automating outreach workflows and providing comprehensive activity analytics. We help individual sales reps save time, while also helping sales managers get full visibility into their LinkedIn outreach efforts.",
+    "one_liner": "Connect LinkedIn to your CRM to automate and track LinkedIn outreach.",
+    "location": "San Francisco, CA, USA; Remote",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "is_hiring": false,
+    "team_size": 2,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "A.J. Ewart hits tee shot to 7 feet, sets up birdie on No. 8 at Charles Schwab - PGA Tour",
+        "source": "PGA Tour",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnAzek5LeGRGYm9zaEctb2xGMzQwVVlTOTRUN3VTQlR4ZE12S08xM3cwOVhWS05wamdydnZaN1d0bVZMU1Vqa1loMlVTeXRsM0JsNW1zRC03amtWQnV5dGYySnZHc1pvQ0VtUkJtaUdTcnZaWWI5TS04a3VYWl9YZFJ4OUhYdzBjRjBZeHRMLXZOZEhCZmV6WEdLSXVHZ2pscnQtNjZsN2JmSkVZZ1lNZWZTZHBxRzRXdEFMcklwNEZ6MGNlQnc?oc=5",
+        "published": "Fri, 29 May 2026 19:15:32 GMT"
+      },
+      {
+        "title": "Michael Thorbjornsen hits tee shot to 7 feet, sets up birdie on No. 13 at Charles Schwab - PGA Tour",
+        "source": "PGA Tour",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHo3b3pxSllMQ3BvYzNaMTZQckRYX2VCZ0VwVjBSTHFXOFhud1U2M0JCQXM3TXNONmF5OV9mV3J5UGZHWm0taC05MXBUVnZ4bHg2RUhiOUppeGlPNHotcFhxMmp0S1ZrSk1LNkRRR3pMQ2ZYRWV4RW1lOUltYzhfazFISFBUTnZfNnp4SUg3LW82S1JRbFl4MjExa2NkdFFnRkc5WjJhVVVWejh5aEEwX1JTdDNNUmdVV0pKOExScUZjdlNwRUlvbDQtMndvLVc0Zk04ZEtB?oc=5",
+        "published": "Fri, 29 May 2026 17:37:03 GMT"
+      },
+      {
+        "title": "Michael Thorbjornsen hits tee shot to 2 feet, sets up birdie on No. 16 at Charles Schwab - PGA Tour",
+        "source": "PGA Tour",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaDd6SkR3TTc4MC1CYVVud1NmQlFUR085TGpyS3ZqUC1zVlpCZUN5bFNLdDZpV09rb1d0SXByQ1g2T3RvR19QRUFOcUh0VHB4QlNIaDd4ZjhndGxndGktd1pMNWM1VHI3Rks1SkhfRGY0bWFleXROQTd5RTRKWUxUZTdZaHlzTGUtRFBrZ1lsOHJ2cURMQldnMkdOdmY2OXVBRmR3WGUwV2RqcnN6UWxlZEFXUmhuckt3OFF1UzB0OWREcDlyME9mS0lFQmo5OU96UmtQMGp3?oc=5",
+        "published": "Fri, 29 May 2026 18:30:46 GMT"
+      }
+    ],
+    "total_score": 61.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 4.7,
+      "product_traction": 5.0,
+      "market_timing": 10.0,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 2.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  }
+]

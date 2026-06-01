@@ -1,0 +1,36 @@
+[
+  {
+    "name": "FINTECH LTD",
+    "company_number": "10184221",
+    "incorporated_on": "2016-05-17",
+    "address": "Cartwright Gardens, London, WC1H 9EH",
+    "sic_codes": [
+      "99999"
+    ],
+    "directors": [
+      "ROSSINI, Stefano"
+    ],
+    "num_directors": 1,
+    "team_signals": [
+      "Solo director (higher execution risk)",
+      "Longer-tenured team (10.0 yrs avg)",
+      "No insolvency history",
+      "Registered SIC codes: 99999",
+      "Filed accounts to 2025-03-31"
+    ],
+    "press_mentions": 0,
+    "top_articles": [],
+    "market_trend": "growing",
+    "total_score": 42.0,
+    "verdict": "Pass",
+    "breakdown": {
+      "team": 6.3,
+      "product_traction": 2.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 2.0,
+      "funding_velocity": 5.0,
+      "network_proximity": 2.0,
+      "press_traction": 0
+    }
+  }
+]

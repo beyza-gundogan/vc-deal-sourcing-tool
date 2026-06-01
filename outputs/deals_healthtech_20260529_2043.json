@@ -1,0 +1,848 @@
+[
+  {
+    "id": "clarion",
+    "name": "Clarion",
+    "source": "YC",
+    "batch": "Winter 2024",
+    "website": "https://clarionhealth.com",
+    "description": "Clarion is building the most advanced AI communication layer for healthcare. Our AI agents handle the overwhelming volume of calls and messages that clinics face daily\u2014from scheduling to billing to prescription refills\u2014freeing staff to focus on patient care. We're an in-person company based in New York.\r\n\r\nToday, clinics miss 30-40% of inbound calls due to staffing shortages. We're solving this by automating complex workflows end-to-end, already serving tens of thousands of patients monthly across virtual care companies, health systems, and a $5B health insurance company.\r\n\r\nWe've raised $5.4M from Accel, Y Combinator, Sequoia (scout), and healthcare founders from Ophelia, Medallion, and Counsel Health. \r\n\r\nOur founders bring both clinical and technical expertise\u2014our CEO Ryan is a Stanford/Harvard-trained physician who was on the founding teams of Two Chairs and Ophelia, while our CTO Jeffrey built voice AI at Amazon Alexa and led AI/ML teams at Salesforce.\r\n\r\nJoin us as we transform healthcare communication\u2014creating a future where patients get faster resolutions and providers reclaim time for what matters most.",
+    "one_liner": "The AI communication layer for healthcare",
+    "location": "New York, NY, USA",
+    "tags": [
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "AI"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 14,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Clarion Weekend, 29 May 2026 - Oxford Clarion",
+        "source": "Oxford Clarion",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRaVR4NGdaRkZwODJDeDhOREZ0QkpCOGxIQXM4U1NSUEFYMy11eGRpYm9vRmtScGJWM2Q1bFQzX2NYLWV1VHpORng1X0U2d3NEdWVPT0otYlZsazJta2NLd214bw?oc=5",
+        "published": "Fri, 29 May 2026 10:43:16 GMT"
+      },
+      {
+        "title": "Forvia Clarion Electronics wins four display contracts - Automotive World",
+        "source": "Automotive World",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWZHenlEQ2JLN081S0NPSGlXZ0pXZU8xMzJpN3plUHIybk5kRjUtX0ZfU1Y2YzdEbkNnaDRvdm1uQWIyR3hKZUZHY1VxV0llVDRhOUhGVXhqM0d5aGs0RzJZOFA3TXpnR3pSSVNubXd3a3NEMnlybE1ZdEFORWZzcmt4UVB0QkNBalU4SFZDV1Vzd2VoNG9N?oc=5",
+        "published": "Fri, 29 May 2026 05:00:58 GMT"
+      },
+      {
+        "title": "West Chester 36-27 Clarion (12 Nov, 2022) Final Score - ESPN",
+        "source": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWRoYzNybjBEOTNXTEczdlNUSXpFMkFVRXRnMlJlYjEyVG5TTXljczhuWU81NHowQWlFaFk4VGFqbG9JQVpIMi1Ma0c4aEx1M0t6WTlMVjZrMVFyTXBjU05EYmhBUHNkLUFBTGZsRFVUVXZ3WjFaYXNZemxjbGV6VlpYSjhxNGxJSlpIcw?oc=5",
+        "published": "Mon, 25 May 2026 15:11:18 GMT"
+      }
+    ],
+    "total_score": 76.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 8.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "numen",
+    "name": "Numen",
+    "source": "YC",
+    "batch": "Summer 2023",
+    "website": "https://www.numen.com",
+    "description": "Engineering a future without cancer deaths.",
+    "one_liner": "Engineering a future without cancer deaths.",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "Machine Learning",
+      "Biotech",
+      "Healthcare",
+      "Diagnostics",
+      "AI"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 18,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "stepping inside numen / for use's ethereal spaces sculpted from tape and tensioned nets - Designboom",
+        "source": "Designboom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1owNkZHMF9MWVhJMG1wNVpsY2pBNmltWHhHU0NRbDR0eVphYTlhNmZfZHFXTUJJekI1XzBsbzFvUjh4OUxKNzYxT0I0SmJlZW0tVmlKd2l0ODFsUXlLNlpjRHZMX3pCU3RDcHhuQjVWNGJ6TjdFT1dzTHdEdmxmRklmM01CRG1XNGhYRkpHdUpxR0p3UDRKTnpkX1lPVmoyaGE4VkRB?oc=5",
+        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Glasberg vs Pyre:Numen - Nebelvolk (Full Split | 2023 | Nibelungen inspired Martial Dungeon Synth) - Dork | Down With Boring",
+        "source": "Dork | Down With Boring",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpqZHMtbnRGZjVOLWI3cm5NMDRxQU91a1U5VXNyc0JWVXVHb3E0WGU5d2xyWWV3ckFMY19VSnphRGp5d0N1WmkxTFByTXAycjdpbUVlWC1JelNqSmtPVTZKTnptdWRMaTlPaFVZTGhOaUJBMXFjOFp0RHp5al9pTHpJTWNBTTdtRmtVbFhTWU1Gb0dwUll4VnoyNldyN2NGNVpmM2d5OEtESXM5MUFxMg?oc=5",
+        "published": "Fri, 22 May 2026 08:28:10 GMT"
+      },
+      {
+        "title": "MicroPort NeuroScientific launches Numen coil embolisation system in Egypt - NeuroNews International",
+        "source": "NeuroNews International",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHVpc0o1YmRNV1g4bFJ6V1ZXZjlCZnRsY05uSy1QZnN0REZ0cTdpWHFxT0d5T0h4X1V1clFrcm9rVENwclNaUGlvQ0VJTTNNOEJqNjRPTjZmclBWcEkzbEJhcEJXZTRvcHVaVkZKZGg5SUxPOXJna0VXSXdfVnByQmhadjBadmQwZWQzT1lNMjUzYUNSRWF0RTBoOUxab2Y5aXhKcHVWUGNPenJvT05V?oc=5",
+        "published": "Wed, 13 Aug 2025 07:00:00 GMT"
+      }
+    ],
+    "total_score": 74.0,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 6.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "scout-2",
+    "name": "Scout",
+    "source": "YC",
+    "batch": "Winter 2022",
+    "website": "http://scouthealth.com",
+    "description": "Digital health holds a lot of potential but is ignoring a growing problem: diagnostic testing. Without this data, providers and organizations will be limited in the services they can provide patients at home.\r\n\r\nScout has developed a platform - Hub, test kits, and app - that delivers health testing at home with 10x lower development cost and 3x lower per-test price. Our patented tech also meets performance requirements for medical diagnoses and integrates with the current healthcare tech stack. Scout\u2019s technology is poised to disrupt the outdated $33Bn diagnostic market by democratizing testing while dramatically improving the patient experience.\r\n\r\nScout has received $16M in non-dilutive funding from the NIH and other organizations to fully de-risk our platform, and our pipeline includes a diverse test menu for primary care (e.g. respiratory and sexual health), wellness (e.g. gut health), and chronic conditions (e.g. certain cancers). We have already received FDA authorization for our platform in clinical settings and are planning to launch our flagship Scout Hub in 2024.",
+    "one_liner": "The smart testing platform that unlocks digital health at home.",
+    "location": "Santa Clara, CA, USA",
+    "tags": [
+      "Consumer Health Services",
+      "COVID-19",
+      "Health Tech",
+      "Diagnostics",
+      "Consumer Products"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 12,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Former Scout leader who force-fed child spicy food jailed for 18 months | ITV News - ITVX",
+        "source": "ITVX",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2stdGN4YTh4NEplSndkbG5KblBkdkdYSmtGY190T1FwNmprY0dreE5sQjRkR05DamEyQmFMMXNNYnQ1SGJvN1RFUDU2cWEycUVnRWZNamRBd205a2xDdGpLQkpqbjNwVXdudnVyenhHSW9FX3NCMDF1dXhBX2hMZWRJaFB1OU5ORWtNNmNjdUF3b3A2Z2pKZUduWHQydW1uU0hITUxXX3BKN0ZKRFJCQVhwX1didw?oc=5",
+        "published": "Thu, 28 May 2026 14:12:20 GMT"
+      },
+      {
+        "title": "Canaries scout departs for Rangers - EDP24",
+        "source": "EDP24",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzNxSlJuVnNNNl9uYl85SXFRRWpNeTZuM0tzTHhlQkFxSnZLdUNILVdxRllCRGVYYUZZV05zZWZZZGVSaWVPeWV0cGU5dWNWRmhyVXNjd3Y0cThPeEdNXzB3ODBxRmxwamh5Q0FWX2ozMjBWdDdwc0RkbG9nMks0N25Va1c1c0R5N1BhblJLal8?oc=5",
+        "published": "Fri, 29 May 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Former Reading FC chief scout Steve Shorey has passed away - Reading Chronicle",
+        "source": "Reading Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHVpZ1laaWRaaDY1dkp2a2YydzUwOGtIZEFKTHNmNmFBYlBSQzF5a0dGNkZzbEhHdnFMbHhfcUpvT1hmenVGSEFSS2dBcms1a2xsR1pVSWZWZVBQbUx1R29wN29yZW4ta29RTGJVeUZOU3hEVEZ4YUdBb0dJWm9iM2xjd2x2U29fZEI2MF9tZEk4OTNWS2o5SThMZ19BRk1LMzFDX2Iyaw?oc=5",
+        "published": "Wed, 27 May 2026 10:04:52 GMT"
+      }
+    ],
+    "total_score": 72.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 4.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "yemaachi-biotechnology",
+    "name": "Yemaachi Biotechnology",
+    "source": "YC",
+    "batch": "Summer 2021",
+    "website": "https://yemaachi.com/",
+    "description": "Yemaachi Biotech is diversifying and expanding access to precision cancer diagnostics and therapeutics by collecting  and sequencing samples from all across Africa, which is the most genetically diverse population on the planet. We then use this data to either optimize existing diagnostic tests, or help other companies discover new ones.\r\nWith our research activities based in Africa, we are able to leverage access to the most genetically diverse population on the planet to build a first-of-its-kind clinical and molecular knowledgebase on cancer among African people.",
+    "one_liner": "Diversifying precision cancer diagnostics and treatments",
+    "location": "Accra, Greater Accra Region, Ghana",
+    "tags": [
+      "Biotech",
+      "Diagnostics",
+      "Therapeutics"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 16,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Yaw Bediako - TechCabal",
+        "source": "TechCabal",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mWUgxYTZYNGZXc0NtRGlrSU5oZEkzOHdRRFZlZ29pdGMxdWdtSFNWcGY4elByOWlZekxuQk1DVTRGN0pqUjdfMVBDM3ZGaWhKMFA0?oc=5",
+        "published": "Thu, 18 Dec 2025 16:43:21 GMT"
+      },
+      {
+        "title": "Tech in Ghana 2025 Speaker Spotlight: David Hutchful \u2013 Yemaachi Biotech - Tech Labari",
+        "source": "Tech Labari",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnF2VGtaWUpWVExvMU8xRGxPZ25BMVp3UkRBLVViMEtVc1QyTW84TjJ3ZXJ6eGdlUC1helF2YzF6ZFkzTGRIaU9nNTdDcDRNYUtrWFhGWVBRdjByYW1nWlAyV0w5dHdRZkJRdno2RHZlYWhodUV3Z3RSQzlJUTVLbHBsaVMzU2ZSWTkzdmhLR1g1ME5uN25F?oc=5",
+        "published": "Tue, 18 Nov 2025 08:00:00 GMT"
+      },
+      {
+        "title": "\u2018The field of human ancestry is rife with racism\u2019: pioneering project to build cancer database in Africa - The Guardian",
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRURtVFRXRnN5bFpJZ0VqU1h1Y1FDRXROQmJMUVFhUlFFQXJLQUpoQ3NMSVJNSDUwcUpPd2ZwUDBUaHgydjhqNy1YdmpYeGpfZFN4SUdXdWMzMTZzeGlGZ2haajJWMElDaG5tTXBuMlVxdFVOLVU0M3ljSV9obHdPMWVENmcxaTl1Z242T3psd243MDlOWGlVUHYtWFFXd2hPTEFrM3UzVEZlazdOVnNBdW51MUs3aHpVVWpXazdDUlUzdElucEE?oc=5",
+        "published": "Wed, 26 Mar 2025 07:00:00 GMT"
+      }
+    ],
+    "total_score": 70.7,
+    "verdict": "Strong \u2014 pursue",
+    "breakdown": {
+      "team": 7.3,
+      "product_traction": 8.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 2.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "redcliffe-lifetech",
+    "name": "Redcliffe Lifetech",
+    "source": "YC",
+    "batch": "Winter 2021",
+    "website": "http://redcliffelabs.com",
+    "description": "Redcliffe Labs (a unit of Redcliffe Lifetech Inc) provides diagnostics with a comprehensive portfolio approach both with routine and specialised test menus with advanced testing labs all over India. Its digital first approach with on-demand 1-hour home collection and same day report is disrupting the way diagnostics is delivered today and thus is the fastest growing in India. \r\n\r\nRedcliffe Labs is providing 3500+ tests across its wide network of labs and collection centres. The company has served about millions of Indians and is processing more than 250K+ test parameters daily. The test portfolio is very wide including routine pathology tests, advanced genetic screening, research-based DNA tests in reproductive health, cancer and wellness/fitness. The easy to interpret smart reports provide key health check-points, which can help in diagnosing and treating both chronic and acute diseases on time. Redcliffe Labs has pioneered Drone technology adoption in the diagnostic sector by opening up the first commercial corridor from Uttarkashi to Dehradun. The company currently has 30+ labs and 700+ authorised collection centres in more than 120 cities across India. \r\n\r\nRedcliffe's vision is to provide world-class diagnostic services to people across the Indian sub-continent in an affordable manner.",
+    "one_liner": "Redcliffe Labs is India's Largest Omni-channel Diagnostics platform ",
+    "location": "Delhi, DL, India; Gurugram, HR, India; Noida, UP, India",
+    "tags": [
+      "Consumer Health Services",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 3500,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Redcliffe Labs - 2026 Latest Shareholding & Valuation - Tracxn",
+        "source": "Tracxn",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0dqb3lRU3VxVXoyWVM1emJpV1UxZTZFbnlXd1R6SGxNNkdZUkgyT2dTQkd0VG9YRTVYVEdnOEo5bS1fbzlTUzA5VmlTWmNwRFdDbjZMWkY1OGdLLTlDRzQzSXJKcGdLMC1qZlZxaURvaEdRajQ0bWp3dDR4dW05RkR5NjlGOU1pQkRhS3NtS0x0ZWFDM2xOV1NJY0hlMW41OU1qaTFteXdNOTZXUDlN?oc=5",
+        "published": "Sat, 23 May 2026 14:49:42 GMT"
+      },
+      {
+        "title": "IFC weighs $30m investment in India diagnostics firm Redcliffe - DealStreetAsia",
+        "source": "DealStreetAsia",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PRlFQMHZTNEw0cnQ1R3Izdi1XNVpJTVVTN3c1cFAtXzQ5NUR2SGVvWDZfWk9SSjVuZ3M5QVlKRGMxWHgtLUNTTHNHVzhnc2RCZC00Vl9FdEFIb01qY3VvSmpybTFDUnB6Q0lz?oc=5",
+        "published": "Wed, 22 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "PE-backed Redcliffe Labs sells IVF arm to Coca-Cola bottler - VCCircle",
+        "source": "VCCircle",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUE9OeHNiWkNBU2Q2MWJjb0Y3dDBLUW5rU1c5UWc0Szd2MERKeHYxUnlsOFRvUjUzS0w5RjNfNFdhYnVlbU5sWXVENWpGakFrLVkxRTB3TjYwUGVESmtEby1CRmFqS25vVTFqZ29CMXZZZmV0UnFRQVNrYVJGT2pReXJ2aWtvcGhuQmlV?oc=5",
+        "published": "Wed, 08 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 69.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 5.3,
+      "product_traction": 10.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 2.0,
+      "network_proximity": 8.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "intellect",
+    "name": "Intellect",
+    "source": "YC",
+    "batch": "Summer 2021",
+    "website": "https://intellect.co",
+    "description": "Intellect is the global leader in hyperlocalised mental healthcare, serving 4 million lives across enterprise employers, insurers, healthcare systems, and governments in over 50 languages and 100 countries.\r\n\r\nWith a comprehensive, AI-powered care ecosystem, Intellect seamlessly integrates digital therapeutics, virtual therapy, high-acuity crisis support, and specialty clinical treatment - delivered through its proprietary digital platforms and directly owned mental health clinics.\r\n\r\nHeadquartered in Singapore with nine global offices, Intellect is backed by top investors including Tiger Global, Y Combinator, Insignia Ventures, and HOF Capital. It is trusted by hundreds of Fortune 500 companies and industry leading organisations.",
+    "one_liner": "A modern-day mental healthcare company for global workforces.",
+    "location": "Singapore, Singapore",
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "Health Insurance",
+      "Health & Wellness",
+      "Mental Health"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 200,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Intellect is not enough - Harvard Gazette",
+        "source": "Harvard Gazette",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ROWpFdHlSNElUeS1tQmwyQ0ZhQy1fdEo1Yzc3TXFYWlNQOVNaZTNtbHpxQnNtaWFMVjJFd0J4bUxNSklwS2tYLU5NR3ZRazFuOVBnaXo3NjFPX0JKNXNOanJvQUhzWm9WWDRBUHpjQWRrNzVnZEhwenE0cw?oc=5",
+        "published": "Wed, 27 May 2026 04:06:06 GMT"
+      },
+      {
+        "title": "Thurso art exhibition will showcase \u2018creativity, intellect and determination\u2019 of Barrogill Keith - John O'Groat Journal",
+        "source": "John O'Groat Journal",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnBhc2Q5OXVaY2h4UU1zQnNwbnlnSlVUYVBmVV9kbmZsSFp5Q0IxOHdnNS03QlZFb215eHRNaC1fMGFjS2thWkNNZ204OUc3SEVfZEFnbU9GZWxQRm52WWV6UUROVmJoUUJ5U25obUZxYjViSnFkWlJ3VU5aVGZxbWpZOVVwVlM0dWdWOGlBWWN1QUl5Sjl0X0NiRS1hc3VyeVFjeElMV1VkMWdM?oc=5",
+        "published": "Mon, 25 May 2026 13:00:00 GMT"
+      },
+      {
+        "title": "Architects Of Intellect \u2014 Architects Of Intellect - Verbal Gymnastics (Music Video) - Dork | Down With Boring",
+        "source": "Dork | Down With Boring",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjNHWUJxQTdBc2dIVTRKTFl0cTl3aUxUR1haSkxXVlNaUmhYZGxqZXNwd2dETEFMVDV0ZzJRQjY1SmhQRUgtSGF0aTZ0RUdSSDJpWHFLZnlTUlI0alZ1Q1hLNzY3WGpwRjBNVDJOUDVqZ3ZER1JuVzV0Q3QxRElwS3ZzRUdVN0NjcF9DYjFVTnF5UDJaUXc3eVRlUWxMLUd5aHloQmNKMTJXN0R4?oc=5",
+        "published": "Sun, 24 May 2026 07:45:09 GMT"
+      }
+    ],
+    "total_score": 69.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 5.3,
+      "product_traction": 10.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 2.0,
+      "network_proximity": 8.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "rovi-health",
+    "name": "Rovi Health",
+    "source": "YC",
+    "batch": "Fall 2025",
+    "website": "https://www.rovi.health",
+    "description": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10\u201320% of healthcare spend. Employees get concierge care that improves outcomes.\r\n\r\nOur AI agents analyze clinical data to identify care needs. We treat common conditions through our integrated virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking. ",
+    "one_liner": "AI healthcare concierge for employees",
+    "location": "New York, NY, USA",
+    "tags": [
+      "Consumer Health Services",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 3,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Autonomous robot company begins pilot with BayCare - St Pete Catalyst",
+        "source": "St Pete Catalyst",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmh5d1N5emxrMEhEVEhSY1NZbTVaN2xLa21zQ0k2TlhLQ0pJU2xzWVltVl9QalNTNTZGbDRwc3loVVdTUzQ3a2d2UnlxbHBaYlhBbklRX2VsOXpRR0J1cHJtY1ptNzd2NFU3Q1dPV3M4WktYVlNqWnpRQVhhYnlTajVVOUQ?oc=5",
+        "published": "Fri, 24 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "My MS diagnosis story: Susan Payrovi, MD - Multiple Sclerosis News Today",
+        "source": "Multiple Sclerosis News Today",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0twQ3NfZlFzT3l4Ui1SVnNqOWk2cXNKSHdEcjZZZjZkMlNvbElVejhsd3BXV0MySUh4blZ2bmk1dko3b1lHbDhQUUs4aXVnSEd0WVhWX3BWOE5HbzVXbFNISDRhcGk3QTV5WE1UWEtqTmh1b01GQ2FieWZpS2hZcmZnVXhwT19LNjJlSA?oc=5",
+        "published": "Thu, 16 Oct 2025 03:19:34 GMT"
+      },
+      {
+        "title": "Clearwater health system studying how robots can help move patients - Business Observer",
+        "source": "Business Observer",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQelMwXzNxYV9feHo5LTNnUFI3MEd3aFc2VU9kclBDWUpQNDBBaHdlMUpfTXU3LU1qbTE1RzRwTUJsMnZQNVpBSk5OVHdpamo4emNlTFJQUDdNX0stN2poanBydWhncUxTT2xzQmNFTzUxdmI2bHFMVlZKcDk5N1pIaG1xRVYwUmJfQmFUdA?oc=5",
+        "published": "Tue, 21 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 68.7,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "mecha-health",
+    "name": "Mecha Health",
+    "source": "YC",
+    "batch": "Winter 2025",
+    "website": "https://www.mecha-health.ai/",
+    "description": "Mecha Health builds foundation models to automate x-ray analysis for radiologists. We take medical images and process them using proprietary models to produce accurate draft medical reports. Our first model was built in less than two months, and beat Microsoft, Google, and OpenAI on clinical accuracy metrics. On top of that, it\u2019s two orders of magnitude smaller and trained with a quarter of the data.\r\n\r\nWe are partnering with the largest privately owned radiology practice in the US and a multinational tele-radiology company to provide them with their own foundation model, enabling their radiologists to go from reading 1 scan per hour to 1 scan every 5 minutes. By charging on a per scan basis, x-ray report generation represents a 40B+ market opportunity. ",
+    "one_liner": "Foundation models to automate x-ray analysis for radiologists",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Health Tech",
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 4,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Mecha Health raises $4.1M seed round to build next-generation foundation models for radiology - Radiology Business",
+        "source": "Radiology Business",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcW80ZjByTmkwVTFSYlBvSmQwcmt1enltUDB3SHBtQmhLSzZtTGdSSE16a0EzVTB5SV9wbnlTVHBsRFNhVEhjVktkSnBjckpSS2s1Qlp4dnZKZDBmTHNsM3FPN0VBeTUyNTFFNExYU3prelRHcEVpc29jdlVQY1VSZnB0SWNxVF9mQ2o5VDNjTnZOZTN2NkwyNDNmejZuZDhkd283c1NrT0NxMS1Na283ZkQxQWE0dHdCdWhqSzd4LWFia1pBbXZj?oc=5",
+        "published": "Fri, 21 Nov 2025 09:17:13 GMT"
+      },
+      {
+        "title": "Dad weeps as he crosses finish line after 365 day running challenge - Suffolk News",
+        "source": "Suffolk News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZE1CZHBqWGQ3LTZOZTNJMkE0c1pwTUNJaF9mUUs1LTR5Z25faWtEdk1qaEthMWhLeDZ6WlBFX3dOMjBMeWR0Nk1KdzNNSV9VT1lEay1pS2NYVUVwWjJfc2pzMEtxR2Z6NFJEQkY4MG1nZlUxTmp6T1kwdVUwOFN4dHZWemwtUXJnWFpMRTBWREhaZm9kaDA1emhJM2VqSXR2ZW1tOWZSaW00eHFpcWkwRUVKcGpQRG1RYVNWeQ?oc=5",
+        "published": "Mon, 23 Mar 2026 07:00:00 GMT"
+      },
+      {
+        "title": "News: WHO condemns killing of three healthcare workers in Amhara region; AMA calls for release of detained, abducted medics - Addis Standard",
+        "source": "Addis Standard",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3cxZGJpU0dfRkN1U2xQUGRtazFZd1MwZ1o0WGJMY0ZVRU8waUgtWThPUU00dmFRSnp0bjIwTWttTmc0RWI3bjBHaDBhZ2h4UWRlb24yM3diS1BpbmJFWHF6aGNQWGltelZ2a2s5ZUJUdTNVMVh3MU5MMllKM09hT2RkbFJVdHNBcnhJaVV2VnlkVS1UYlVvd2tzUWxGSGUwS0JEam5BRXhHd3VWME1fdjZFM0NibDRKb0poUlRzM3JsUEtSUVBONEl3X1p6MnVHeDdFTUY0S1AzZw?oc=5",
+        "published": "Thu, 09 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 68.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "play-health",
+    "name": "Play Health",
+    "source": "YC",
+    "batch": "Fall 2025",
+    "website": "http://playhealth.com",
+    "description": "Play Health is building a perimenopause care platform to provide women and their providers with the tools they need to relieve symptoms fast. It is led by technical, second-time, YC-backed founders Andrea Mazzocchi, PhD and Ian Miller, with an exit and a unicorn between them.\r\n\r\nOver 30 million women in the U.S. are experiencing perimenopause symptoms, spending an estimated $15B+ annually on symptom management.  Despite this most only receive generic solutions and struggle to find effective symptom relief.\r\n\r\nWe're bringing evidence-based perimenopause care to women through partnerships with medical practices and employer and health benefits programs. Our platform integrates personalized symptom, medication, and lifestyle data to generate AI-powered insights and  clinical protocols, enabling providers to deliver specialized care.\r\n\r\nEvery clinical interaction enriches our longitudinal dataset allowing us to create better outcomes for patients, deeper insights for providers, and expand into women\u2019s health broadly. This also enables us to partner with pharma and biotech companies developing therapeutics and diagnostics for women's health.",
+    "one_liner": "Perimenopause Care Platform",
+    "location": "Boulder, CO, USA",
+    "tags": [
+      "Biometrics",
+      "Biotech",
+      "Digital Health",
+      "Health & Wellness",
+      "Women's Health"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 4,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Football: Naomi Girma opens up about player mental health: \u201cBeing an athlete is built on pressure\u201d - olympics.com",
+        "source": "olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTludXBJbi1KZ2ptUVFvMlR2dTVYOGNsYWZfMDhUTWtTcXBPdnF2Rk9vQU1aX1BXN1NQN01sb1NGQVMwSUMzeG1tUmM5dmNKQmloUGNMaEdjVmxfRnZnd2c1U3ZIMmZXUTFrdlM5WnVkZE9LX1BPOFJvRGdnQzdKOE9YeVNQcGlNVy05QWlZN3F4UHdfbGc?oc=5",
+        "published": "Wed, 27 May 2026 11:15:00 GMT"
+      },
+      {
+        "title": "Freestyle football star brings mental health message to Hitchin Town play-off final - Hitchin Nub News",
+        "source": "Hitchin Nub News",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNWVXZXU5TllJMHY4ZFRfNEtsaVpmOXVtNk9Jeklob3N2WFlkMi1SbXlOMWl4RlJrXzI2czZlUHBzYm1EdmJmMElFeGthcl96UmFTbnd1TUFrRjEwLUVTN1hWeElMTnR3VV9mcU1hNEtwd0tHUkoyc1U4aFB3Y1REemt1cnVrTHBDbWFDUTB0YUZEdUY5UmNqcTlWOUxPRy1kbjNieHEzNHp0Y0VEWlktUmk2TU5lZF8yUnFNRzE1eUdFbHBwSnBCWG51MA?oc=5",
+        "published": "Thu, 28 May 2026 12:11:00 GMT"
+      },
+      {
+        "title": "Immune protein found to play a key role in maintaining bone health - King's College London",
+        "source": "King's College London",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzlsNUF2T3h5YXZFbDJfSjRQbjB2RWd1Z1gwdlRISVk3X2VsSlhIdml1Q2ZJV2VOY1RTYTFpTFJDN3pETEJQaHk4ZFE4VzdtVndQVW5zbEZuTFp2alJYN3ZTNkN3UlU1VUUyUXhCNmE3M3BJdDZGRlYyUXhZWVNRYnFFZ2NKUXU2N0lwR24wdG1fYmxiT1MzYQ?oc=5",
+        "published": "Fri, 06 Mar 2026 08:00:00 GMT"
+      }
+    ],
+    "total_score": 68.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "signatur-biosciences",
+    "name": "Signatur Biosciences",
+    "source": "YC",
+    "batch": "Summer 2022",
+    "website": "https://www.signatur.bio/",
+    "description": "We make precision diagnostics more accessible, starting with breast cancer prognosis. Current tests that guide the use of therapy are really slow and expensive because they need to be run in complex centralized facilities. Our tests are designed to be easily run by local hospital labs, reducing turnaround time from over three weeks to a few days and for a fraction of the price.",
+    "one_liner": "Simple tests for complex diseases.",
+    "location": "London, England, United Kingdom",
+    "tags": [
+      "Biotech",
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 5,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [
+      "DE WERGIFOSSE, Celestin"
+    ],
+    "ch_incorporated": "2022-04-05",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Signatur Bioscience - Imperial College London",
+        "source": "Imperial College London",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHJaa1VOV1BKUGwzVFhHWjBaNVBiRWVoQXh5TzBXVExuZ0F5d0VqWHpEbnZWSFZoWHVZRTRSQzlpRVpFTGVqT1oyOHpaMTFSbkJKcWY1T25yVExkUnBxQlVULUt2dzR3Smd5ZzBUUHVwRm5scGhaMmlSRThvOEJ2YmlvcTllVExwVEVKRFpqcWJ0NU5ndVc2TmtXRldBMzZHX0xsZVhPWjYwQnFSdGR2Vld5SzBseldVSkJqSDdRcG5jUXpkNy1xZ0tiZXhlU0tWdTcw?oc=5",
+        "published": "Thu, 27 Mar 2025 06:37:17 GMT"
+      },
+      {
+        "title": "Signatur Biosciences snaps $7M to enable fast, local and affordable breast cancer diagnostics - Tech Funding News",
+        "source": "Tech Funding News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHhnbFpid1J3S243YTVGM3NNbXRvZnZzQ3AwNWI4X0FWcXEySGt6TWxRbF96S2dGVEd4MWFkdHIyNDc1OWdfcEh0dHVHNHZyN2xfdUdMeHFadFlTbkxiRWNCdzZsc1pfWWR0VFZaalRzZWQ5VmhMZU9fSEM4OHRFeTc2Y05VVGp3YUtlN0RJTW9Db1ZubHN2WWVIdVNETnlpTGFwcjMzWVFmTVgtbUwtWXRSTWwweXN4eTFUSw?oc=5",
+        "published": "Thu, 22 May 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Celestin de Wergifosse - Forbes",
+        "source": "Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtb2hHdmhiaGpRMTkzZ2kycmhsYXFYdnAzSTJ1Rm1YdnBqaUZ5VDFKZ0t3ak41UHhLVU1tdmpqWFY1ckRyVkJOSWpWV2o4cXNULXJKMlRnbXdRQ29Mc0xrRjBkSHc?oc=5",
+        "published": "Tue, 15 Apr 2025 07:00:00 GMT"
+      }
+    ],
+    "total_score": 66.7,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.3,
+      "product_traction": 6.5,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 4.0,
+      "network_proximity": 7.0,
+      "press_traction": 7.4
+    }
+  },
+  {
+    "id": "runharbor",
+    "name": "Harbor",
+    "source": "YC",
+    "batch": "Spring 2026",
+    "website": "https://runharbor.com/",
+    "description": "Harbor is building an AI-native contract research organization (CRO) for clinical trials. We started with an AI-native system of record for clinical trial data (electronic data capture system), grew the software business to seven trials and ~$187k in contracted software revenue over the next twelve months, then expanded into full-service trial execution and signed our first CRO contract worth $1.93M over three years.\r\n\r\nClinical trials consume 45% of all new drug and device development spend. While some of that goes to software, sites, and patients, the largest line items are services: project management, monitoring, data management, site coordination, source verification, query resolution, record reconciliation, and analysis.\r\n\r\nToday, drug and device companies outsource clinical operations to legacy CROs and their massive teams, which is why the CRO market is $82B annually. Harbor delivers the regulated services companies buy from legacy CROs, but built around our AI-native system of record from day one. Our software already automates the core data workflows: study build, data capture, query generation, monitoring, signing, and database lock. Because we own the system of record, we can expand into the surrounding service workflows: site contracting and billing, subject engagement and retention, statistics, reporting, and more.\r\n\r\nWe built Harbor because we lived through the problem. Albert spent four years in clinical trials and regulatory strategy at a medical device startup, taking an unproven wearable from first-in-human trials to FDA authorization. Nate brings the technical depth, having built scalable software at Google and Ramp and served as employee #1 at a previous YC startup.",
+    "one_liner": "AI-native CRO for clinical trial operations",
+    "location": "San Diego, CA, USA",
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 2,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "Working beneath the surface: Rochester Harbor dredging (VIDEO) - Dredging Today",
+        "source": "Dredging Today",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEI5NzVDTV9DY2huV2NDYlh2VHhVdHBkVE1hamk0bVRPX2NhQ3E2bFdRNTRNYnVNdXluMWJqbWU3RzJkd0tzTTlMN0ZqQUxaY2VlNmF0YVB3VjJCclc0dHVFQThkempkUDlHel8wRUpIWndLZjlCUnkyWm1NenA4N2ZlTmZybklRTXdqR0psWGtiR3Y0dVlpNFNMSU84WEFsQTlF?oc=5",
+        "published": "Fri, 29 May 2026 08:05:01 GMT"
+      },
+      {
+        "title": "Wild Video Shows Dozens Of Drones Fall From The Sky, 'Crash And Smash' Into Harbor During Festival Light Show - BroBible",
+        "source": "BroBible",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93YXNkRWVRRVU3UlJVRFA4LU13Wkp1bjI5endWUU5aMVMzUU5mYi12SnduR1dPSTY0bk42bmVqaUQ5VzY1RjlROVJBaURPenVRUjFCX0xNS1hGNV9Gc21aZjgySEV4YmtGMjV4N2xmdVRpN2cxYnRkNjh3bkQ?oc=5",
+        "published": "Tue, 26 May 2026 19:56:30 GMT"
+      },
+      {
+        "title": "Snorkeling at Pearl Harbor: Kash Patel\u2019s Travels Add to Focus on Ethical Issues - The New York Times",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUs3eWFjSWJSYnU1TW4tRXR6eTlRNGFELXBWQTh6MEVIYWhfSmV3NkdZVEFJNGVsRTJPVXl4aUhNOGJFdGFBZGktd0ZsVlFVQmVZYlNGVFpEVFNmNGVBSmx4aHZCRDBBSFNWWW9qeV8yRGJKdjYxS1hIdTJDRUthSHhRbl9tWHdSV1d1YXQ0cE1qS0d4VTVR?oc=5",
+        "published": "Fri, 15 May 2026 07:00:00 GMT"
+      }
+    ],
+    "total_score": 64.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 4.7,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "panacea",
+    "name": "Panacea",
+    "source": "YC",
+    "batch": "Spring 2026",
+    "website": "https://withpanacea.com",
+    "description": "Panacea provides AI-native FDA regulatory services for Biotechs and Medical Device companies. We hire the most experienced FDA consultants in the industry (ex-FDA, decades of experience, hundreds of filings) and pair them with our AI platform to enable the fastest and lowest cost pathway to FDA approval.\r\n\r\nWhile other regulatory consultants bill hourly, our pricing\u00a0model is simple:\u00a0fixed, outcome-based pricing. Payment is only due when milestones are complete.\r\n\r\nWe support all FDA regulatory pathways including IND, NDA, BLA, ODD, Pre-Subs, 510(k), De Novo, PMA, IDE, BDD, etc.",
+    "one_liner": "AI-Native FDA Regulatory Services",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "B2B",
+      "Medical Devices",
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 2,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "TPR research shows 'scale is not a panacea' for good outcomes in DC - Professional Pensions",
+        "source": "Professional Pensions",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3lXUkFCOVlpVnpXTUhndjRmLVI5UXJkUnBNUFBuWGFrUFBEUVQ3MVNRX0JEOS1Uck8yaGE1UTl1dEMwT1RiRjRzdFlHNnRpb2VGZGtmYmxwYV9vUU95M19wakI3OWF2MzVuVlh4cGd0UlJBbzgzY1dSSC1qWWJKSjc1NFByTzBmOUhIQktDajh0Zw?oc=5",
+        "published": "Fri, 08 May 2026 14:20:37 GMT"
+      },
+      {
+        "title": "Panacea \u2014 panacea untitled b side (Music Video) - Dork | Down With Boring",
+        "source": "Dork | Down With Boring",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZmV0OGhaem5jeDUzczUzNlBrQkdoREpxQ0lVR01fSWw4ZDdiRjNfWHBXSFdRaTEwdTNSSGtpbzBPaWlKRHZmMERzdzluZmt1X2JYX3RIMmFXV2JnOExpUlhZaUhhSlZ2ZjZ4THFEaGpaTm51am5CUjJQMTlkNDQ?oc=5",
+        "published": "Sun, 17 May 2026 10:54:32 GMT"
+      },
+      {
+        "title": "Celine Cairo \u2013 Panacea: Single Review - At The Barrier",
+        "source": "At The Barrier",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yQlRHS1JqbU1PcHBYUkx3YXMtTHNlY085dmlSbzZ1V2k4ZEJ3VTJEcUR2Z3luMFVDU0lUbW1WcUotalkxelBwcEdWXzRVX2hhWnBDR3kxLS05REZkX0YzY0MwWkZYSThFYmJjX1FiTkxfV2szSFFKbTAwRdIBgAFBVV95cUxQQm8wU3JZZksxRld6dWloSG1FQzZ1UDVhUVRJMGRaM1prbGh0dWY2VnFnMG5SSWtUWldFWEVucjZETzV5QXB6bUx6VkpSc2ZuWTNlcU9Ycm5KMXVlQzVzSUpYUFA0TmxfZW0tMGNXWmxOZHp4clQ4dFNjYmpYWFNGLQ?oc=5",
+        "published": "Fri, 09 Jan 2026 08:00:00 GMT"
+      }
+    ],
+    "total_score": 64.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 4.7,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "frekil",
+    "name": "Frekil",
+    "source": "YC",
+    "batch": "Spring 2025",
+    "website": "https://www.frekil.com",
+    "description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
+    "one_liner": "RWE Generation in minutes",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "Health Tech",
+      "B2B",
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 2,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 0,
+    "top_articles": [],
+    "total_score": 61.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 4.7,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 10.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 0.0
+    }
+  },
+  {
+    "id": "lunabill",
+    "name": "LunaBill",
+    "source": "YC",
+    "batch": "Fall 2025",
+    "website": "https://lunabill.com/",
+    "description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes.\r\n\r\nSince our launch in July we are now at $764K in contracted ARR, of which $428K is live revenue and the rest will go live by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. We have automated 50,000+ calls and signed partnerships with top healthcare leaders like UC health systems, Mayo, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan\u2019s biggest healthcare AI scribe company, used by 120k+ healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.\r\n",
+    "one_liner": "AI Voice callers for healthcare billing teams",
+    "location": "San Francisco, CA, USA",
+    "tags": [
+      "Generative AI",
+      "Health Tech",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 4,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 10,
+    "top_articles": [
+      {
+        "title": "DeSantis announces support for Rep. Luna\u2019s bill banning congressional stock trading - Florida Phoenix",
+        "source": "Florida Phoenix",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXh2N2pvZXZhOXI4VUxkaFBGWjVxWVRtR1F5WVRwSWlJT0g1TTFJbzNUMUpRZThkOEp2czFRSUE3dk5uR084VkhySTRya1VHdVo5Mk1Tc3NZT3NMbEVBRU43Uk9wTDlTX0NrQW01YlZVUnExUDJ2WHRnWHRJbzk2aG0tc1ZDRTlPTU1jV3JMcFVCR1RyVFg4UGpFNDFBX2s3Nk5tQ2JaQURVeVBZalQ2MVNZTFpseVN2NzREQQ?oc=5",
+        "published": "Tue, 06 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "DeSantis urges Florida lawmakers to support Rep. Luna's bill to end congressional stock trading - Tampa Bay 28",
+        "source": "Tampa Bay 28",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjVrcWhHekF1NGpURkZxSnNsV1hjU2FaOVZ6aVV4clgxMGdZRGFKcXBnMGdUU2RFdFRBaGJVOUJ4azZ5SVZTUHNhSkljaXIxemg5ODhFWTdsbm4tRWlVdFV6SEk5XzJvbDcxZjRpXzl3YnRYbG5GbERTNE5Rc3hvWVBoUGVYSUZYd3pRWXhBMEFva01RYjlNUmFqcl8yZm4xNGtTd3UxVFVacTNjLWp0cjhTcWRiRWktZ3d4TGV1WWVtNHRt?oc=5",
+        "published": "Tue, 06 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Bold And The Beautiful Scoop November 18: Will Rejects A Delusional Luna - Bill And Katie Get Alarming News - The Soap Scoop",
+        "source": "The Soap Scoop",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlY1dlQtcHdEMGpiY05UNkxvZWd4NTI1YnF4SXkwMHNPOHhmUW5FRjYyOU4wRVAxOFZvQ1FiSUhKVjNYcXFqTFM1Q3pGOWNEV09IYUxYSUhacGFFVXV2X3gxUDNFWGlTaHhwZnZtUDdJVjExczBHT3prWldhZzlJNmhuQmFXeW5QbTVuOVAwdw?oc=5",
+        "published": "Mon, 17 Nov 2025 08:00:00 GMT"
+      }
+    ],
+    "total_score": 58.0,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 0.0,
+      "funding_velocity": 10.0,
+      "network_proximity": 7.0,
+      "press_traction": 6.0
+    }
+  },
+  {
+    "id": "pirouette-pharma",
+    "name": "Pirouette Pharma",
+    "source": "YC",
+    "batch": "Summer 2021",
+    "website": "https://www.pirouettepharma.com/",
+    "description": "At Pirouette, we have developed a low-profile, disk-shaped, rugged injection device with a patient-centric focus on affordability, portability, and usability. The patented device, based on extensive patient input, is designed to make administering an injection as easy as pushing a button. This allows individuals with limited or no training to easily and intuitively perform an injection on themselves or others.",
+    "one_liner": "We make injections as easy as pushing a button!",
+    "location": "Boston, MA, USA",
+    "tags": [
+      "Health Tech",
+      "Medical Devices",
+      "Biotech",
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "is_hiring": false,
+    "team_size": 9,
+    "status": "Active",
+    "incorporated_on": "",
+    "directors": [],
+    "sic_codes": [],
+    "ch_directors": [],
+    "ch_incorporated": "",
+    "press_mentions": 4,
+    "top_articles": [
+      {
+        "title": "The FDA\u2019s Moderna pirouette is one more sign of chaos at the agency - statnews.com",
+        "source": "statnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FNG1mcWNXOWtORzdCMU9QVXh5cmcta29leXh2S2xUU1E5SUU1eHZSNjV3UGlCcVFIbU83REg5SkxsUU1pbHpOREFnSjhuOTJLZTZfdDI0ZERmbmRRa1o2eWs3WjRyRTh6eHFJd1NINGVuN09nWGIxNzlB?oc=5",
+        "published": "Wed, 18 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Biotech industry in New Hampshire poised for continued growth in 2026 - Valley News",
+        "source": "Valley News",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pV0dzTlFUd1ZtRDJYQmJmQ3BaTXY4c2I0Y19MZEQ3ZjVXZHc2ampzT3ZRVDJMR3VBZzBhdGNmR0RmeFVVbFB5TUttOFpQTENBYUNHUk9JUlNlV2ljNUEtd0FjUmVxa0RtZERNM3NyV1dSZzQ?oc=5",
+        "published": "Sun, 08 Mar 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Safar Partners Leads Pirouette\u2019s Investment Round with $5M+ Raised, Extending Opportunity for Public to Invest Alongside Renowned Investors like Y Combinator - Business Wire",
+        "source": "Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTnhuRnFvWEt2amZVczJ1TE9kVEJqb2dCZ1VUUDBKVHl2QkktLVBZY3JMVFFlSUcxdTVoU1pBMzFYMERXRFk3VU82QlpyNHNyZ2xHQmgzWHMyUFNLZFp6Rk5XVlVEOGhGNEVsUGRCRG1DMmFNbmZSYXdmY0FZMXAxTGlWdjAybnd6WlpBSk11QUZUTTlUdlFZZkxTYlhhT0plV29DQzg4ZWMwVGNfY2VHbzd1RmRQNklydFc3S3RGeVowTVBXa0JhR0JCUS0xNjVRM3ZLcVRoTU9yRHp5VE1tNjhwQXp0bEc4YUhUM3FXTEs3djJ4Wnl4VmNxbk1SRWU0WWZZZU9uc2hsMmJBb005OEhwODdBUm5iLTZHUGJDaDFBV1AyRVVqSVZFaWRnTGNjeDF2ak9MT2s?oc=5",
+        "published": "Tue, 07 May 2024 07:00:00 GMT"
+      }
+    ],
+    "total_score": 51.3,
+    "verdict": "Watch list",
+    "breakdown": {
+      "team": 6.0,
+      "product_traction": 5.0,
+      "market_timing": 6.7,
+      "hiring_momentum": 3.0,
+      "funding_velocity": 2.0,
+      "network_proximity": 7.0,
+      "press_traction": 2.7
+    }
+  }
+]

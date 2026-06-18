@@ -1,8 +1,6 @@
 """
 News & hiring signal scraper using NewsAPI.
-Free tier limitation: the /everything endpoint only works from localhost.
-We use /top-headlines which works everywhere on the free tier,
-plus a Google News RSS feed as a fallback for broader coverage.
+Works both locally (.env) and on Streamlit Cloud (st.secrets).
 """
 
 import os
@@ -14,7 +12,16 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-NEWS_API_KEY = os.getenv("NEWS_API_KEY")
+
+def get_secret(key: str) -> str:
+    try:
+        import streamlit as st
+        if key in st.secrets:
+            return st.secrets[key]
+    except Exception:
+        pass
+    return os.getenv(key, "")
+
 
 TIER_1_SOURCES = {
     "techcrunch", "financial times", "bloomberg", "forbes",
@@ -24,26 +31,14 @@ TIER_1_SOURCES = {
 
 
 def get_press_score(company_name: str, days: int = 90) -> dict:
-    """
-    Get press coverage score for a company using two sources:
-    1. NewsAPI /top-headlines (works on free tier)
-    2. Google News RSS feed (completely free, no key needed)
-    Returns score 0–5.
-    """
     articles = []
-
-    # Source 1: NewsAPI top-headlines
     articles += _newsapi_headlines(company_name)
-
-    # Source 2: Google News RSS (no key, no tier restrictions)
     articles += _google_news_rss(company_name)
 
-    # Deduplicate by title
-    seen = set()
-    unique = []
+    seen, unique = set(), []
     for a in articles:
         t = a.get("title", "")[:60]
-        if t not in seen:
+        if t and t not in seen:
             seen.add(t)
             unique.append(a)
 
@@ -66,7 +61,6 @@ def get_press_score(company_name: str, days: int = 90) -> dict:
 
 
 def get_hiring_score(company_name: str) -> dict:
-    """Hiring momentum proxy via Google News RSS. Score 0–10."""
     query = f"{company_name} hiring OR funding OR expansion OR growth"
     articles = _google_news_rss(query)
     count = len(articles)
@@ -74,22 +68,14 @@ def get_hiring_score(company_name: str) -> dict:
     return {"score": score, "mentions": count}
 
 
-# ── Data sources ──────────────────────────────────────────────────────────────
-
 def _newsapi_headlines(company_name: str) -> list[dict]:
-    """
-    NewsAPI /top-headlines — works on free tier from any machine.
-    Limited to major English-language headlines only.
-    """
+    api_key = get_secret("NEWS_API_KEY")
+    if not api_key:
+        return []
     try:
         resp = requests.get(
             "https://newsapi.org/v2/top-headlines",
-            params={
-                "q": company_name,
-                "language": "en",
-                "pageSize": 10,
-                "apiKey": NEWS_API_KEY,
-            },
+            params={"q": company_name, "language": "en", "pageSize": 10, "apiKey": api_key},
             timeout=8,
         )
         if resp.status_code != 200:
@@ -97,9 +83,9 @@ def _newsapi_headlines(company_name: str) -> list[dict]:
         data = resp.json()
         return [
             {
-                "title": a.get("title", ""),
-                "source": a.get("source", {}).get("name", ""),
-                "url": a.get("url", ""),
+                "title":     a.get("title", ""),
+                "source":    a.get("source", {}).get("name", ""),
+                "url":       a.get("url", ""),
                 "published": a.get("publishedAt", ""),
             }
             for a in data.get("articles", [])
@@ -109,12 +95,9 @@ def _newsapi_headlines(company_name: str) -> list[dict]:
 
 
 def _google_news_rss(query: str) -> list[dict]:
-    """
-    Google News RSS — completely free, no API key, no tier restrictions.
-    Returns recent articles mentioning the query.
-    """
     try:
-        url = f"https://news.google.com/rss/search?q={requests.utils.quote(query)}&hl=en-GB&gl=GB&ceid=GB:en"
+        url = (f"https://news.google.com/rss/search"
+               f"?q={requests.utils.quote(query)}&hl=en-GB&gl=GB&ceid=GB:en")
         resp = requests.get(url, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
         if resp.status_code != 200:
             return []
@@ -127,19 +110,13 @@ def _google_news_rss(query: str) -> list[dict]:
             source_el = item.find("source")
             source = source_el.text if source_el is not None else ""
             pub = item.findtext("pubDate") or ""
-            articles.append({
-                "title": title,
-                "source": source,
-                "url": link,
-                "published": pub,
-            })
+            articles.append({"title": title, "source": source, "url": link, "published": pub})
         return articles
     except Exception:
         return []
 
 
 if __name__ == "__main__":
-    for name in ["Monzo", "Revolut", "Wise"]:
-        result = get_press_score(name)
-        print(f"{name}: score={result['score']}/5  mentions={result['total_mentions']}  tier1={result['tier1_mentions']}")
-        time.sleep(1)
+    result = get_press_score("Monzo", days=90)
+    print(f"Press score: {result['score']}/5")
+    print(f"Mentions: {result['total_mentions']} total, {result['tier1_mentions']} tier-1")

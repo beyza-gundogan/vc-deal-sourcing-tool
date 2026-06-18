@@ -2,9 +2,9 @@ VC Deal Sourcing Tool
 An AI-powered pipeline that discovers, scores, and writes investment briefs for YC-backed startups — built to streamline early-stage deal sourcing workflow.
 Instead of a junior analyst spending hours manually researching companies, this tool fetches 5,900+ YC startups, scores each one across 7 signals, and generates a written investment brief in seconds.
 
-Demo
+Website
 
-📹 https://drive.google.com/file/d/1gOcG_ouKZ0QMuPpujVNFmz8a_Ra2c0I8/view?usp=sharing
+https://vc-deal-sourcing-tool.streamlit.app/
 
 What it does
 1. Discovery — fetches all 5,900+ YC-backed companies via the yc-oss public API, filters by sector (fintech, AI, healthtech, B2B SaaS, climate tech and more), and narrows to VC-stage companies from recent batches.
